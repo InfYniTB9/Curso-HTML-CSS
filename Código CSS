@@ -1,0 +1,13 @@
+.curioso {
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th {
+  text-align: center;
+  color: rgb(8, 90, 191);
+}

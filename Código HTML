@@ -1,0 +1,61 @@
+<div>
+  <h1> 
+    Compreendendo a linguagem de marcação HTML
+  </h1>
+  <p>
+    A notação de <b> marcação </b> é semelhante a linguagem LATEX, a qual o meu contato é frequente, assim, sua manipulação se torna pouco a pouco mais compreensível. 
+  </p>
+</div>
+
+<div>
+  <h1>
+    Distinções de HTML para LATEX
+  </h1>
+  <p>
+    <em> No meu ponto de vista inicial e leigo elas são semelhantes e como foi dito em aula ela não rodam no computador por isso não se configuram como linguagem de progamação sendo elas compiladas na rede internet.</em> E o interpretador configura uma pagina <b> WEB </b> ou uma página A4, para o <b> LATEX </b>, <em> seus objetivos são claros para a documentação e visualização em um ambiente. </em>
+  </p>
+</div>
+<h2>
+  Usa-se o < e o > para representar um comando, em latex é usado \
+</h2>
+  <h3>
+    Em latex já se configura a cor do texto, aqui vai ser utilizado o CSS para dar algumas features ao texto, como o itálico, negrito, etc.
+  </h3>
+
+  <center>
+  <img src="https://cdn.pixabay.com/photo/2016/11/19/22/25/html5-1841458_1280.png" width="10%" />
+  <img src="https://cdn.pixabay.com/photo/2024/02/10/11/51/versus-8564629_1280.png" width="8%"   
+  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Overleaf_Logo.svg/640px-Overleaf_Logo.svg.png" width="10%"
+  />
+  </center>
+
+<a
+href="https://tex.stackexchange.com/questions/78215/what-is-the-difference-between-latex-and-html" >  Algumas considerações importantes para a comparação.
+</a>  Todavia as considerações que são mais notáveis estarão contidas nesse primeiro projeto.
+
+  <ul>
+    <li>
+      Qual a <b>finalidade</b> deste projeto ?
+    </li>
+    <li>
+      Em qual análise faz sentido usar <em> <b> HTML </b> ou <b> LATEX </b> ? </em>
+    </li>
+    <li>
+      Qual tem o <em> <b> menor </b> custo computacional ? </em>
+    </li>
+  </ul>
+ 
+  <table class="curioso">
+    <tr>
+    <th>-</th>
+    <th><b> LATEX </b></th>
+    <th><b> HTML </b></th>
+    </tr>
+    <tr>
+    <td>Finalidade</td>
+    <td><b> Documento </b></td>
+    <td><b> Página WEB </b></td>
+    </tr>
+  </table>
+  
